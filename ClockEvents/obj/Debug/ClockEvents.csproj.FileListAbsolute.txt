@@ -1,0 +1,6 @@
+D:\DataServer\JamesMueller\Projects\Github\UnturnedPlugins\ClockEvents\obj\Debug\ClockEvents.csprojAssemblyReference.cache
+D:\DataServer\JamesMueller\Projects\Github\UnturnedPlugins\ClockEvents\obj\Debug\ClockEvents.csproj.CoreCompileInputs.cache
+D:\DataServer\JamesMueller\Projects\Github\UnturnedPlugins\ClockEvents\bin\Debug\ClockEvents.dll
+D:\DataServer\JamesMueller\Projects\Github\UnturnedPlugins\ClockEvents\bin\Debug\ClockEvents.pdb
+D:\DataServer\JamesMueller\Projects\Github\UnturnedPlugins\ClockEvents\obj\Debug\ClockEvents.dll
+D:\DataServer\JamesMueller\Projects\Github\UnturnedPlugins\ClockEvents\obj\Debug\ClockEvents.pdb
